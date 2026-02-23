@@ -1,0 +1,26 @@
+# The URL the site will be built for
+base_url = "https://near-seed-phrase.vercel.app"
+
+# The site title and description
+title = "NEAR Seed Phrase Documentation"
+description = "Documentation for NEAR Seed Phrase utilities"
+
+# The default language; used in feeds and search index
+default_language = "en"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+# Configuration for the Markdown rendering
+[markdown]
+# Whether to do syntax highlighting
+highlight_code = true
+
+# The theme to use for code highlighting.
+highlight_theme = "base16-ocean-dark"
+
+[extra]
+# Put all your custom variables here
